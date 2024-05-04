@@ -2,6 +2,13 @@
 
 ## About
 
+This repository contains
+
+- [Course notes](#course-contents)
+- [Assignments](#assignments)
+
+## Course Info
+
 Course Instructor: Andreas Kollegger
 
 ## Course Contents
@@ -10,3 +17,10 @@ Course Instructor: Andreas Kollegger
 |-|----------|
 |0|[Introduction](./notes/Lesson_0.md)|
 |1|[Knowledge Graph Fundamentals](./notes/Lesson_1.md)|
+|2|[Querying Knowledge Graphs](./notes/Lesson_2.md)|
+
+## Assignments
+
+|Lesson #|Assignment|Description|
+|-|----------|-----------|
+|2|[Querying Knowledge Graphs with Cypher](./notes/Lesson_2.md#notebook)|Query Knowledge Graph on Movies|
