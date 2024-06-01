@@ -18,6 +18,9 @@
 - [Neo4j Vector Index](https://python.langchain.com/v0.1/docs/integrations/vectorstores/neo4jvector/): `Neo4jVector`
 - [Neo4j x LangChain: Deep Dive Into the New Vector Index Implementation](https://neo4j.com/developer-blog/neo4j-langchain-vector-index-implementation/)
   - The `retrieval_query` parameter allows you to collect, transform, or calculate any additional graph information you want to return from the similarity search.
+- [Neo4j’s Vector Search: Unlocking Deeper Insights for AI-Powered Applications](https://neo4j.com/blog/vector-search-deeper-insights/)
+  - Fast approximate k-nearest neighbor (KNN)
+  - Hierarchical Navigable Small World (HNSW)
 
 ## Notebook
 
