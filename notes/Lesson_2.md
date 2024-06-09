@@ -16,9 +16,12 @@
     - Populate the environment variables in [.env file](../code/.env) as defined in your Neo4j Aura account.
   - **Populating Movies database**
     - Option #1
-      - Import database using the .dump file
-      - ![Import database from .dump file](../images/2_1.png)
+      - [Import database](https://neo4j.com/docs/aura/auradb/importing/import-database/) using the .dump file
+        - Clicking on the instance in the Neo4j Aura Console would take you to the following screen:
+        - ![Import database from .dump file](../images/2_1.png)
+        - Upload [neo4j_L2.dump file](../code/data/neo4j_L2.dump)
     - Option #2
-      - Followed the CREATE step of the hosted movies database as mentioned in the [Getting Started docs](https://neo4j.com/docs/getting-started/appendix/example-data/#_hosted_databases).
+      - I followed the CREATE step of the hosted movies database as mentioned in the [Getting Started docs](https://neo4j.com/docs/getting-started/appendix/example-data/#_hosted_databases).
+        ![CREATE command](../images/2_2.png)
       - On the built-in Browser guide, run the command `:PLAY movies` as suggested in the [developer blog](https://neo4j.com/developer-blog/getting-started-with-play-movies/). You will find the CREATE step in it.
     - Movies database: ![Movies database](../images/2_0.png)
