@@ -9,7 +9,8 @@ This repository contains
 
 ## Course Info
 
-Course Instructor: Andreas Kollegger
+- Course Instructor: Andreas Kollegger
+- [Course URL](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
 
 ## Course Contents
 
@@ -34,3 +35,12 @@ Course Instructor: Andreas Kollegger
 |5|[Adding Relationships to the SEC Knowledge Graph](./notes/Lesson_5.md#notebook)|Add relationships to the knowledge graph created from 10-K form of the company used in previous lesson|
 |6|[Expanding the SEC Knowledge Graph](./notes/Lesson_6.md#notebook)|Expand SEC knowledge graph by adding management firms' investment information from Form 13|
 |7|[Chatting with the SEC Knowledge Graph](./notes/Lesson_7.md#notebook)|<ul><li>Explore updated SEC documents graph which includes address information.</li><li>Queries written over nodes and relationships as well as on distance proximity.</li><li>Creating Cypher queries with an LLM as well as teaching LLM to write Cypher using few-shot learning.</li><li>Integration with LangChain using `GraphCypherQAChain`</li></ul>|
+
+## Certificate
+
+- [Course completion certificate](https://github.com/kaushikacharya/kaushikacharya.github.io/blob/master/assets/certificates/DeepLearning_ai_Knowledge_Graphs_for_RAG.pdf)
+- Issued on June 2024
+
+## Related Courses
+
+Please visit my [Github page](https://kaushikacharya.github.io/courses/) for more courses.
