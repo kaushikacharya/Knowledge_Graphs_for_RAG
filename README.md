@@ -22,6 +22,7 @@ Course Instructor: Andreas Kollegger
 |4|[Constructing a Knowledge Graph from Text Documents](./notes/Lesson_4.md)|
 |5|[Adding Relationships to the SEC Knowledge Graph](./notes/Lesson_5.md)|
 |6|[Expanding the SEC Knowledge Graph](./notes/Lesson_6.md)|
+|7|[Chatting with the SEC Knowledge Graph](./notes/Lesson_7.md)|
 
 ## Assignments
 
@@ -32,3 +33,4 @@ Course Instructor: Andreas Kollegger
 |4|[Constructing a Knowledge Graph from Text Documents](./notes/Lesson_4.md#notebook)|Construct a LangChain RAG workflow to chat with 10-K form of a publicly listed company|
 |5|[Adding Relationships to the SEC Knowledge Graph](./notes/Lesson_5.md#notebook)|Add relationships to the knowledge graph created from 10-K form of the company used in previous lesson|
 |6|[Expanding the SEC Knowledge Graph](./notes/Lesson_6.md#notebook)|Expand SEC knowledge graph by adding management firms' investment information from Form 13|
+|7|[Chatting with the SEC Knowledge Graph](./notes/Lesson_7.md#notebook)|<ul><li>Explore updated SEC documents graph which includes address information.</li><li>Queries written over nodes and relationships as well as on distance proximity.</li><li>Creating Cypher queries with an LLM as well as teaching LLM to write Cypher using few-shot learning.</li><li>Integration with LangChain using `GraphCypherQAChain`</li></ul>|
